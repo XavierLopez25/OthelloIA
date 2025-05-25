@@ -1,0 +1,4 @@
+pydantic
+motor
+pymongo
+python-dotenv
